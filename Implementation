@@ -1,0 +1,9 @@
+we use the Open Weather Map API to make calls to a restful api to return the current weather data. This uses the Modern Javascript Fetch AP along with React hooks and conditonals.
+Intro
+How to get API keys
+Creating the application and installing packages
+Building city search component
+Building current weather component
+Fetching and mapping data from weather API
+Building weather forecast component
+
